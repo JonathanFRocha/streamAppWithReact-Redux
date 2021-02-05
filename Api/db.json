@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My new Stream",
+      "description": "testing the userId",
+      "userId": "100283891717414215466",
+      "id": 1
+    },
+    {
+      "title": "weasadsad",
+      "description": "welp medieval",
+      "id": 3
+    },
+    {
+      "title": "supaaa",
+      "description": "ultra",
+      "userId": "113812795210163240615",
+      "id": 4
+    }
+  ]
+}
